@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game					"Team Fortress 2"
+	game					"Team Fortress 2: Launch Base"
 	type 					multiplayer_only
 	nomodels				1
 	nohimodel 				1
