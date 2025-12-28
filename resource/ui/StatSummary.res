@@ -2461,7 +2461,7 @@
 		"textAlignment"			"west"
 		"textAlignment_hidef"		"north-west"
 		"textAlignment_lodef"		"north-west"
-		"xpos"			"c-275"
+		"xpos"			"c-250"
 		"xpos_lodef"			"c-180"
 		"xpos_hidef"			"c-180"
 		"ypos"			"405"
