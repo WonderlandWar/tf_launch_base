@@ -1,6 +1,7 @@
 "GameInfo"
 {
 	game					"Team Fortress 2: Launch Base"
+	gamelogo 1
 	type 					multiplayer_only
 	nomodels				1
 	nohimodel 				1
