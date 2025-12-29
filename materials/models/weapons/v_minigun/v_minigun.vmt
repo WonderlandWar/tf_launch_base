@@ -1,6 +1,7 @@
 "VertexLitGeneric"
 {
 	"$basetexture"	"models\weapons\v_minigun\v_minigun"
+	"$bumpmap"		"models/weapons/v_minigun/v_minigun_phongmask"
 	
 	"$phong" "1"
 	"$phongexponent" "25"
@@ -8,8 +9,6 @@
 	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
 	"$phongfresnelranges"	"[1.5 .5 3]"
 	"$halflambert" "1"
-
-	"$basemapalphaphongmask" "1"
 	
 	"$rimlight" "1"						
 	"$rimlightexponent" "20"				
