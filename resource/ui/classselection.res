@@ -880,8 +880,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"image"			"loadout_bottom_gradient"
-		"tileImage"		"1"
+		"fillcolor"		"0 0 0 180"
 		"PaintBackgroundType"	"0"
 	}		
 	
@@ -1430,7 +1429,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		"xpos"			"0"
+		"xpos"			"c-320"
 		"ypos"			"0"
 		"zpos"			"6"		
 		"wide"			"480"
