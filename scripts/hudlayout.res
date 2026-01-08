@@ -785,28 +785,6 @@
 		"tall"					"200"
 	}
 
-	ArenaWinPanel
-	{
-		"fieldName"				"ArenaWinPanel"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"c-225"
-		"ypos"					"250"
-		"wide"					"450"
-		"tall"					"218"
-	}
-	
-	PVEWinPanel
-	{
-		"fieldName"				"PVEWinPanel"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"c-150"
-		"ypos"					"255"
-		"wide"					"300"
-		"tall"					"215"
-	}
-
 	StatPanel
 	{
 		"fieldName"				"StatPanel"
@@ -844,22 +822,6 @@
 		"tall"					"50"
 	}
 
-	AnnotationsPanelCallout
-	{
-		"fieldName"			"AnnotationsPanelCallout"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"200"
-		"ypos"					"200"
-		"wide"					"100"
-		"tall"					"50"
-	}
-	
-	AnnotationsPanel
-	{
-		
-	}
-
 	WaitingForPlayersPanel
 	{
 		"fieldName"				"WaitingForPlayersPanel"
@@ -871,17 +833,6 @@
 		"tall"					"64"
 	}
 	
-	"HudUpgradePanel"
-	{
-		"fieldName"		"HudUpgradePanel"
-		"visible"		"0"
-		"enable"		"1"
-		"xpos"			"c-200"
-		"ypos"			"260"
-		"wide"			"400"
-		"tall"			"160"		
-	}
-
 	"HudChat"
 	{
 		"ControlName"		"EditablePanel"
@@ -917,18 +868,6 @@
 		"ypos"			"c-59"
 		"wide"			"450"
 		"tall"			"200"
-		"PaintBackgroundType"	"0"
-	}
-
-	"HudEurekaEffectTeleportMenu"
-	{
-		"fieldName" 	"HudEurekaEffectTeleportMenu"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"c-125"
-		"ypos"			"c-55"
-		"wide"			"250"
-		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -968,10 +907,10 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-160"
-		"ypos"					"65"
+		"ypos"					"15"
 		"ypos_lodef"			"75"
 		"wide"					"320"
-		"tall"					"100"
+		"tall"					"250"
 	}
 
 
